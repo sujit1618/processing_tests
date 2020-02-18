@@ -9,4 +9,5 @@ void setup()
 void draw(){  
   text("Hello Web!",20,20);
   println("Hello ErrorLog!");
+  ellipse(10,10,10,10);
 }
